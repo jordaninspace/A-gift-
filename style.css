@@ -117,6 +117,19 @@ body {
     text-align: center;
     margin: 0;
     font-size: 3rem;
+    font-family: "Trebuchet MS", "Segoe UI", cursive, sans-serif;
+    font-weight: 900;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #1f1f1f;
+}
+
+.jazz-page h1 em {
+    font-style: italic;
+    font-family: "Georgia", "Times New Roman", serif;
+    color: #3a2a1d;
+    text-transform: none;
+    letter-spacing: 0.04em;
 }
 
 .jazz-page main {
